@@ -1,26 +1,13 @@
-# Obsidian Vault Gitignore
 
-# 不需要版本控制的文件
-.obsidian/                    # Vault 配置文件（插件、自定义快捷键等，每个设备不同）
-.obsidian.json               # 可能有的旧配置
-.trash/                      # Obsidian 回收站
-.trash/**                    # 回收站内容
+# ===========================================
+# 排除大型媒体文件夹，只追踪笔记文件
+# ===========================================
 
-# 系统文件
-.DS_Store                   # macOS 系统文件
-Thumbs.db                   # Windows 缩略图
-desktop.ini                 # Windows 桌面配置
+# 排除 Pr/Ae/C4D 图片和视频（太大）
+Pr/
+Ae/
+C4D/
 
-# 临时文件
-*.tmp
-*.log
-*~
-
-# 大文件（如果有）
-# videos/
-# *.zip
-# *.pdf
-# *.mp4
-
-# Git 相关（如果有意外提交）
-# .git/
+# 或者更精确地，只追踪 .md 和配置文件
+*.md
+!.gitignore
