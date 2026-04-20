@@ -1,13 +1,29 @@
-
 # ===========================================
-# 排除大型媒体文件夹，只追踪笔记文件
+# Obsidian Vault Gitignore
 # ===========================================
 
-# 排除 Pr/Ae/C4D 图片和视频（太大）
+# Obsidian 配置（设备特定，不需要版本控制）
+.obsidian/
+.obsidian
+
+# 回收站
+.trash/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.log
+*~
+
+# 大型媒体文件夹（Pr/Ae/C4d 图片视频不上传）
 Pr/
 Ae/
 C4D/
 
-# 或者更精确地，只追踪 .md 和配置文件
+# 仅追踪笔记文件
 *.md
 !.gitignore
