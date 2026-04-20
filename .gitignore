@@ -24,6 +24,5 @@ Pr/
 Ae/
 C4D/
 
-# 仅追踪笔记文件
-*.md
-!.gitignore
+# Git 相关（不需要）
+.git/
