@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "3c92a1d4a3758e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "e85f1e4785214e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ceb78ae893b639e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AILearningBuddy/学习进度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "学习进度"
+            }
+          },
+          {
+            "id": "5b7d9e014d34650b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "体育学/体育学思维导图.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "体育学思维导图"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ce5529a94fb89dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5e6176077710fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2bfe9dcb68ecca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3dda89a217181f42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "97670ad0893a4416",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "0d766d3ec487913a",
+    "type": "split",
+    "children": [
+      {
+        "id": "000e40521c624125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9c0a72c440e589",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "体育学/体育学思维导图.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "体育学思维导图 的反向链接列表"
+            }
+          },
+          {
+            "id": "7a98dd6893d1f76b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "体育学/运动生理学/运动生理学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "运动生理学 的出链列表"
+            }
+          },
+          {
+            "id": "cd623d461b9740e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f1184417f522cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "体育学/运动生理学/运动生理学.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "运动生理学 的大纲"
+            }
+          },
+          {
+            "id": "3d4d930278f7aa13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "bases:新建数据库": true,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "command-palette:打开命令面板": true,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5b7d9e014d34650b",
+  "lastOpenFiles": [
+    "AILearningBuddy/学习进度.md",
+    "体育学/体育学思维导图.md",
+    "C4D/笔记/09.动画.md",
+    "AILearningBuddy/已学知识/Scikit-learn机器学习基础.md",
+    "AILearningBuddy/已学知识/数据清洗.md",
+    "AILearningBuddy/已学知识/Seaborn统计可视化进阶.md",
+    "AILearningBuddy/已学知识/数学基础概率与统计.md",
+    "AILearningBuddy/已学知识/数学基础线性代数.md",
+    "AILearningBuddy/已学知识/Python文件操作与模块.md",
+    "AILearningBuddy/已学知识/Python异常处理.md",
+    "AILearningBuddy/已学知识/Python面向对象编程.md",
+    "AILearningBuddy/已学知识/Pandas数据处理基础.md",
+    "AILearningBuddy/已学知识/NumPy数组基础.md",
+    "AILearningBuddy/已学知识/Matplotlib数据可视化基础.md",
+    "AILearningBuddy/已学知识/线性回归基础.md",
+    "AILearningBuddy/专业名词/无监督学习.md",
+    "AILearningBuddy/专业名词/监督学习.md",
+    "AILearningBuddy/专业名词/机器学习.md",
+    "AILearningBuddy/AI学习代码/README.md",
+    "AILearningBuddy/专业名词/正则化.md",
+    "AILearningBuddy/AI学习指南.md",
+    "AILearningBuddy/AI学习指南_updated.md",
+    "AI学习代码.md",
+    "知识库导航.md",
+    "AILearningBuddy/专业名词/集成学习.md",
+    "AILearningBuddy/专业名词/梯度下降.md",
+    "AILearningBuddy/已学知识",
+    "AILearningBuddy/专业名词",
+    "Test",
+    "C4D/图片/第六节课参考.png",
+    "C4D/图片/04.案例顶视图.png",
+    "C4D/图片/04.案例正视图.png",
+    "C4D/图片",
+    "体育学/运动生理学/图片/Pasted image 20260304135225.png",
+    "📚 知识库导航.md.baiduyun.uploading.cfg",
+    "马克思基本原理/马原.md.baiduyun.uploading.cfg",
+    "马克思基本原理/马原.docx.baiduyun.uploading.cfg",
+    "体育学/运动解剖学/03.循环系统/笔记/07.淋巴系统组成与功能.md.baiduyun.uploading.cfg",
+    "体育学/运动解剖学/03.循环系统/笔记/06.肺循环血管.md.baiduyun.uploading.cfg",
+    "体育学/运动解剖学/03.循环系统/笔记/05.体循环血管-静脉.md.baiduyun.uploading.cfg",
+    "Pr/图片/第12课-AI助力.png",
+    "Pr/图片/第13课-剪映基础面板介绍.png",
+    "Pr/图片/第16课-调色.png",
+    "Pr/图片/第11课-专题实战.预告片类剪辑.png",
+    "Pr/图片/第14课-剪映+AI.png",
+    "Pr/图片/第15课-专题实战：影视混合剪辑.png",
+    "后期总.canvas",
+    "未命名.canvas"
+  ]
+}
